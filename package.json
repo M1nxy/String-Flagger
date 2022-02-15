@@ -1,0 +1,11 @@
+{
+  "name": "string-flagger",
+  "version": "1.0.2",
+  "description": "A simple way of flagging strings for containing blacklisted strings/domains.",
+  "main": "index.js",
+  "author": "M1nx",
+  "license": "ISC",
+  "dependencies": {
+    "extract-urls": "^1.3.2"
+  }
+}
